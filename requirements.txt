@@ -3,3 +3,4 @@ Flask-Cors
 requests
 yt-dlp
 pandas
+gunicorn
